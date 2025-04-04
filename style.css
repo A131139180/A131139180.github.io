@@ -1,10 +1,12 @@
 body {
+    margin: 0;
+    padding: 0;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     font-family: Arial, sans-serif;
-    background-image: url('imgs/mizu.jpg');
+    background-image: url('./imgs/mizu.jpg');
     background-size: cover; /* 填滿容器 */
     background-position: center -25vw; /* 置中對齊 */
     background-repeat: no-repeat; /* 不重複 */
