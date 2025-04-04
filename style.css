@@ -3,9 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f4f4f4;
     font-family: Arial, sans-serif;
-    height: 100vh;
     background-image: url('mizu.jpg');
     background-size: cover; /* 填滿容器 */
     background-position: center -25vw; /* 置中對齊 */
